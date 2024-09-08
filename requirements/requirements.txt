@@ -1,0 +1,2 @@
+boto3
+pyspark  # if needed for Glue
